@@ -1,1 +1,4 @@
 # Learning-Result-Prediction-by-VAD
+
+Its objective is proposing a high-performance academic risk warning method applied in online learning system and enhance its teaching effectiveness. To achieve this, it first hypothesizes that introducing emotional states from students could improve the accuracy of learning results prediction because they are more authentic and natural than learning behavior data submitted in online teaching system. Then, it utilizes VAD (Valence-Arousal-Dominance) emotion measurement instead of traditional categorial metrics since the former is more comprehensive and suitable for regression models of academic prediction. Finally, it carries out learning results regression by four machine learning models on learning only data and both learning and emotional data, from which the best regression as of ADA_RF_EXP is selected for future learning risk prediction in online teaching system.
+
